@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sarrlick@gmail.com
+	name = malick sarr
