@@ -52,3 +52,5 @@
 [user]
 	email = sarrlick@gmail.com
 	name = malick sarr
+[safe]
+	directory = /Users/lick/code/dask

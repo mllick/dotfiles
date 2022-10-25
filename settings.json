@@ -75,5 +75,19 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "security.workspace.trust.untrustedFiles": "open",
+    "vs-kubernetes": {
+      "vscode-kubernetes.minikube-path.mac": "/Users/lick/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+      "vscode-kubernetes.helm-path.mac": "/Users/lick/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.autoSave": "afterDelay",
+    "github.copilot.enable": {
+      "*": false,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": false
+    }
 }
